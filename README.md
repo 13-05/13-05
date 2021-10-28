@@ -10,4 +10,4 @@ I hope you enjoy my projects; both future and past!
 
 # Contact
 
-You can contact me by email at 1305@the-unwelcome.com, but since i don't check email much, use my discord instead. Discord: `Outsider#6969`
+You can contact me by email at 1305@the-unwelcome.com, but since i don't check email much, use my discord instead. Discord: `Øutsider#1305`
