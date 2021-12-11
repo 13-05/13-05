@@ -4,7 +4,7 @@ I'm just some dude who likes to program random sh- *stuff* whenever i feel like 
 
 # Contact
 
-You can contact me through my discord user: `./go_touch_grass.exe#1305`
+You can contact me through my discord user: `./go_touch_grass.exe#0420`
 
 # Other Stuff
 
