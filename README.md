@@ -4,10 +4,10 @@ I'm just some dude who likes to program random sh- *stuff* whenever i feel like 
 
 # Contact
 
-You can contact me through my discord user: `./go_touch_grass.exe#8313`
+You can contact me through my discord user: `./go_touch_grass.exe#6572`
 
 # Other Stuff
 
-i uhm have a website up at https://13-05.github.io/ and i also made a sussy script at https://gist.github.com/13-05/7e8c8b9f0e932971c57bd2aa336b6441 lol
+I'm working on https://github.com/13-05/redpoint rn; go check it out!!
 <br /><br /><br />
 ###### i make discord bots sometimes lol
