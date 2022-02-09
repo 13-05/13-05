@@ -1,13 +1,15 @@
-# Hi!
+# Hey!
+I'm 1305 on here, but call me Outsider! I'm currently working on [RedPoint](https://github.com/13-05/redpoint), and I enjoy reverse engineering APIs ~~to the extent of inspect element~~ and making them do stuff they aren't supposed to! Here's some stuff I've done on here:
 
-I'm just some dude who likes to program random sh- *stuff* whenever i feel like it, so don't expect consistency from me lol
+[![my github stats!](https://github-readme-stats.vercel.app/api?username=13-05&show_icons=true&count_private=false&theme=onedark)](https://github.com/13-05)
 
-# Contact
+[![github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=13-05&langs_count=3&theme=onedark)](https://github.com/13-05)
 
-You can contact me through my discord user: `./go_touch_grass.exe#6572`
+## Well, what else do you do?
+I've been working with networking a lot more recently, and I particularly love the [requests](https://pypi.org/project/requests/) (python) and [cpr](https://docs.libcpr.org/) (c++) libraries for making api calls.
 
-# Other Stuff
+## How can I contact you??
+[Here's my Discord :>](https://dsc.bio/outsider1305)
 
-I'm working on https://github.com/13-05/redpoint rn; go check it out!!
-<br /><br /><br />
-###### i make discord bots sometimes lol
+## What
+idk
