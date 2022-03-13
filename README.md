@@ -1,5 +1,5 @@
 # Hey!
-I'm 1305 on here, but call me Outsider! I'm currently working on [RedPoint](https://github.com/13-05/redpoint), and I enjoy reverse engineering APIs ~~to the extent of inspect element~~ and making them do stuff they aren't supposed to! Here's some stuff I've done on here:
+I'm 1305 on here, but call me Outsider! I'm currently working on [Discord.JS-Pure](https://github.com/13-05/discord.js-pure), and I enjoy reverse engineering APIs ~~to the extent of inspect element~~ and making them do stuff they aren't supposed to! Here's some stuff I've done on here:
 
 [![my github stats!](https://github-readme-stats.vercel.app/api?username=13-05&show_icons=true&count_private=false&theme=onedark)](https://github.com/13-05)
 
