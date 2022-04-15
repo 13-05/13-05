@@ -8,8 +8,6 @@ I'm 1305 on here, but call me Outsider! I'm currently working on [Discord.JS-Pur
 ## Any Cool Projects?
 - [Discord.JS-Pure](https://github.com/13-05/discord.js-pure), a Discord selfbot library written in web javascript
 - [Hidden Disc Documentation](https://github.com/13-05/hidden-disc-docs), a repository documenting parts of Discord's API they'd rather not talk about
-- [RedPoint](https://github.com/13-05/redpoint), a multitool for exploiting popular services written in a multitude of languages
-- [The Big Brother Protocol](https://github.com/13-05/big-brother-protocol), a WIP project to locate cameras anywhere
 
 ## Anything else?
 Contact me through [Discord](https://dsc.bio/outsider1305), and always remember, it's only illegal if you get caught! ;)
