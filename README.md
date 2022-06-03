@@ -3,11 +3,10 @@ I'm 13-05, AKA [Outsider](https://discordid.13-05.repl.co/569675586541191346)! I
 
 ## Languages I Use
 - Rust
-- JS
+- JS ~~i wish i didnt know js~~
 - Python
 - C++
 - C#
-- Probably some more in here, I don't even know anymore... 😭
 
 ## Repos to Keep an Eye On
 [![Hidden Disc Docs](https://github-readme-stats.vercel.app/api/pin/?username=13-05&repo=hidden-disc-docs&theme=material-palenight)](https://github.com/13-05/hidden-disc-docs)
