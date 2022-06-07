@@ -35,6 +35,6 @@ fn user_info() -> HashMap<&'static str, GitValue> {
 }
 
 fn main() {
-    env::set_var("13-05", GitUser::new(&user_info()));
+    let outsider1305 = GitUser::from(&user_info());
 }
 ```
