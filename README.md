@@ -1,17 +1,40 @@
-# Hey!
-I'm 13-05, aka Outsider!
+```rs
+use std::collections::HashMap;
+use std::env;
+use GitHub::GitUser;
 
-## Languages I Use
-- Rust
-- JS ~~i wish i didnt know js~~
-- Python
-- C++
-- C#
+enum GitValues {
+    Aliases(Vec<&str>),
+    Contact(HashMap<&'static str, &'static str>),
+    ProgrammingLanguages(Vec<&str>),
+    Interests(Vec<&str>),
+}
 
-<!--- [![reponame](https://github-readme-stats.vercel.app/api/pin/?username=13-05&repo=reponame&theme=material-palenight)](repolink) --->
+fn user_info() -> HashMap<&'static str, GitValue> {
+    HashMap::from([
+        (
+            "contact",
+            GitValues::Contact(HashMap::from([(
+                "email",
+                "1305@national.shitposting.agency",
+            )])),
+        ),
+        (
+            "aliases",
+            GitValues::Aliases(vec!["outsider1305", "Outsider", "1305", "13-05"]),
+        ),
+        (
+            "programming-langages",
+            GitValues::ProgrammingLanguages(vec!["Rust", "Python", "C#", "C++", "JavaScript"]),
+        ),
+        (
+            "interests",
+            GitValues::Interests(vec!["Malware", "Reverse Engineering", "APIs"]),
+        ),
+    ])
+}
 
-## My Stats
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=13-05&show_icons=true&theme=material-palenight&hide=contribs,prs)](#)
-
-# Bye!
-Have a good day! Oh, and, always remember: It's only illegal if you get caught~ 😉
+fn main() {
+    env::set_var("13-05", GitUser::new(&user_info()));
+}
+```
